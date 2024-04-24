@@ -2,3 +2,5 @@
 client_secret.json
 Copy of スキンケア情報.gsheet
 .DS_Store
+app/__pycache__
+data/
